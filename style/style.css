@@ -55,14 +55,15 @@ header a:hover {
 }
 
 body {
-    background-color: #5dd26f;
+    background-color: beige;
 }
 
 main {
     background-color: white;
     max-width: 800px;
     margin: 0 auto 10px auto;
-    padding: 13px;
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
 }
 
 main h2 {
@@ -120,4 +121,5 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
+    font-size: 1.2em;
 }
